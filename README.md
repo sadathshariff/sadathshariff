@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently **type checking JavaScript**
 
 - 📝 I  write articles on [https://sadathshariff.hashnode.dev/](https://sadathshariff.hashnode.dev/)
 
